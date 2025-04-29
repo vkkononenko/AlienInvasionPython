@@ -1,0 +1,22 @@
+{
+    "screen_width": 1200,
+    "screen_height": 800,
+    "bg_color": [
+        230,
+        230,
+        230
+    ],
+    "filename": "settings.json",
+    "bullet_speed": 1,
+    "bullet_width": 3,
+    "bullet_height": 15,
+    "bullet_color": [
+        60,
+        60,
+        60
+    ],
+    "bullets_allowed": 3,
+    "alien_speed": 0.5,
+    "aliens_missed": 5,
+    "aliens_killed": 0
+}
